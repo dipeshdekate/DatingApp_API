@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.API", "DatingApp.API\DatingApp.API.csproj", "{59DD4D3B-69B7-4EB1-8F13-0235C1161765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.Models", "DatingApp.Models\DatingApp.Models.csproj", "{126887DB-BBA9-46CF-8B0E-D6E058C4C272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.DAL", "DatingApp.DAL\DatingApp.DAL.csproj", "{FD90ED0C-2F6B-4D49-9FFA-4C260452A958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.BAL", "DatingApp.BAL\DatingApp.BAL.csproj", "{167F1936-F806-4E99-A84B-D691873757F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DD4D3B-69B7-4EB1-8F13-0235C1161765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DD4D3B-69B7-4EB1-8F13-0235C1161765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DD4D3B-69B7-4EB1-8F13-0235C1161765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DD4D3B-69B7-4EB1-8F13-0235C1161765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126887DB-BBA9-46CF-8B0E-D6E058C4C272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126887DB-BBA9-46CF-8B0E-D6E058C4C272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126887DB-BBA9-46CF-8B0E-D6E058C4C272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126887DB-BBA9-46CF-8B0E-D6E058C4C272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD90ED0C-2F6B-4D49-9FFA-4C260452A958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD90ED0C-2F6B-4D49-9FFA-4C260452A958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD90ED0C-2F6B-4D49-9FFA-4C260452A958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD90ED0C-2F6B-4D49-9FFA-4C260452A958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167F1936-F806-4E99-A84B-D691873757F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167F1936-F806-4E99-A84B-D691873757F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167F1936-F806-4E99-A84B-D691873757F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167F1936-F806-4E99-A84B-D691873757F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
